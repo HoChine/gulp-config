@@ -1,0 +1,11 @@
+*.tags
+*.tags1
+.git
+.svn
+*/.DS_Store
+*.DS_Store
+*/.idea/
+.idea/
+/node_modules/
+/dev/
+/dist/
